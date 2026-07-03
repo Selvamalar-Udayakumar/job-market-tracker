@@ -82,6 +82,8 @@ def transform_jobs(raw_data):
 
     # Step 5: Clean date field
     df["created"] = pd.to_datetime(df["created"], errors="coerce")
+    # Step 5b: Add ingestion date - the date THIS pipeline run pulled the data
+    df["ingested_at"] = pd.Timestamp.now().normalize()
 
     # Step 6: Drop exact duplicate listings (same id)
     df = df.drop_duplicates(subset="id")
