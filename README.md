@@ -6,6 +6,12 @@ Why I built this
 
 I was researching the data engineering job market for my own career planning and decided to build a tool to track it properly: what roles are being posted, where, by whom, and what fraction disclose salary. This project doubles as a hands-on introduction to core data engineering concepts — building a pipeline end-to-end rather than just analyzing a static dataset.
 
+Dashboard
+
+Show Image
+
+Built in Power BI, connected directly to the Neon PostgreSQL database. Key metrics include total listings, salary disclosure rate, average disclosed salary, top hiring locations, top companies, job posting age distribution, and a daily pipeline ingestion trend that grows automatically as the pipeline runs.
+
 Architecture
 
 Adzuna API (live job listings)
@@ -40,7 +46,7 @@ SQLAlchemy — database connection and writes
 PostgreSQL (Neon) — cloud-hosted data warehouse
 Adzuna API — live job listings source
 GitHub Actions — scheduled orchestration (daily runs, no local infrastructure required)
-Power BI — dashboard and visualization (in progress)
+Power BI — dashboard and visualization
 
 
 What the pipeline does
