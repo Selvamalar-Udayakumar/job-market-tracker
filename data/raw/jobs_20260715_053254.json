@@ -1,0 +1,604 @@
+[
+  {
+    "created": "2026-07-12T06:10:25Z",
+    "redirect_url": "https://www.adzuna.in/details/5797434640?utm_medium=api&utm_source=4a2f7c39",
+    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: ELSE Global Sustainability Business Proc Your role and responsibilitie…",
+    "title": "Senior Data Engineer",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "ABB"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5797434640",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 77.59837,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1Nzk3NDM0NjQwIn0.elDZbKWliz5Fu2Ery4E3X0N6CMAWvEozGiquP5avwPs",
+    "latitude": 12.95703,
+    "contract_time": "full_time"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Reckitt"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5790410259?utm_medium=api&utm_source=4a2f7c39",
+    "created": "2026-07-07T05:28:21Z",
+    "description": "This job is with Reckitt, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest qual…",
+    "title": "IT&D Data Engineering Senior Manager",
+    "id": "5790410259",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "longitude": 78.50806,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1NzkwNDEwMjU5In0.WGeOq_a3wHGgB8e0FI-BtSiuAsk8HagUeaB0eJO3cGo",
+    "contract_time": "full_time",
+    "latitude": 17.40275
+  },
+  {
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "id": "5771700385",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cherry Bekaert"
+    },
+    "title": "Data Loss Prevention Engineer",
+    "description": "About the Role Cherry Bekaert is looking for a Data Loss Prevention (DLP) Engineer to help build and strengthen its enterprise data protection program. In this role, you’ll design, implement, and optimize DLP controls across Microsoft Purview, cloud platforms, and network/email security tools—ensuring sensitive data is protected and aligned with regulatory and security standards. What You’ll Do DLP Strategy & Implementation Design and manage DLP policies across Microsoft 365 (Exchange, SharePoi…",
+    "redirect_url": "https://www.adzuna.in/land/ad/5771700385?se=FqXRoA6A8RGnybZGKZMVYw&utm_medium=api&utm_source=4a2f7c39&v=33A61BDE01A635157937200CC588A7998A1E6F10",
+    "created": "2026-06-21T17:10:05Z",
+    "latitude": 13.06041,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MTcwMDM4NSIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.zR9Ek7DkVwWjHYmtI9HBarwlEr-liTEVeQ0th9szGaw",
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5794768640",
+    "salary_is_predicted": "0",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka"
+    },
+    "created": "2026-07-10T03:46:52Z",
+    "redirect_url": "https://www.adzuna.in/details/5794768640?utm_medium=api&utm_source=4a2f7c39",
+    "title": "Principal Engineer - Data Services, VP",
+    "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description DWS’s data infrastructure team provides the secure, scalable, and trusted foundation for storing, processing, and distributing critical enterprise data across the organization. As Principal Engineer for Data Services, you will shape the technical strategy for a portfolio of d…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Deutsche Bank"
+    },
+    "contract_time": "full_time",
+    "latitude": 12.95703,
+    "longitude": 77.59837,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDc2ODY0MCIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.6t99spjgZ1N1fItJUGk3PD2LUNCpPtKAiLmyzz1qH_I"
+  },
+  {
+    "company": {
+      "display_name": "Avaloq",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Senior Snowflake Data & AI Platform Engineer",
+    "description": "This job is with Avaloq, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Company Description Founded and headquartered in Switzerland, Avaloq is continuously expanding its global footprint with around 2,500 colleagues in 12 countries, and more than 170 clients in 35 countries. We are an industry-leading provider of wealth management technology and services for financial institutions aroun…",
+    "created": "2026-07-03T00:54:13Z",
+    "redirect_url": "https://www.adzuna.in/details/5785771026?utm_medium=api&utm_source=4a2f7c39",
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pune, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "id": "5785771026",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MTAyNiIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.mIRjUX1LFAOmyqCWe1tOnec2hHFgWNZCgvMy4KreoyI",
+    "longitude": 73.84735,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "latitude": 18.5062
+  },
+  {
+    "id": "5785772428",
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "eBay",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-07-03T00:54:25Z",
+    "redirect_url": "https://www.adzuna.in/details/5785772428?utm_medium=api&utm_source=4a2f7c39",
+    "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+    "title": "MTS 1, Software Engineer, Data Platforms",
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1Nzg1NzcyNDI4In0.BxE21UoE4lk6V6GoVv9zoEX0jxtw-fGqOEvu1bJ4HK0"
+  },
+  {
+    "id": "5785771257",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Hyderabad, Telangana",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MSD"
+    },
+    "created": "2026-07-03T00:54:14Z",
+    "redirect_url": "https://www.adzuna.in/details/5785771257?utm_medium=api&utm_source=4a2f7c39",
+    "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description R400875 Technical Lead, Software Engineering, Data Context Layer Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. • Be part of…",
+    "title": "Technical Lead, Software Engineering, Data Context Layer",
+    "latitude": 17.40275,
+    "contract_time": "full_time",
+    "longitude": 78.50806,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MTI1NyIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.DmHYSI6H7RjuPgUpIDfcNcjhM1zQpwSfX9KTmGJrtsw"
+  },
+  {
+    "contract_type": "contract",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5753863584",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cableteque"
+    },
+    "description": "Cableteque comprises an international team with expertise in wire interconnects, CAD deployments, data exchange protocols, and AI. Our team is located worldwide, including the US, India, & Europe. This allows us to assemble diverse perspectives, comprehensive knowledge, and specialized know-how to deliver the best software products and services to our clients. We are looking for an Electrical Wire Harness (EWH) Engineer to create, build, and maintain a highly detailed electrical/interconnect pa…",
+    "title": "Electric Wiring Harness (EWH) Engineer - Data Librarian",
+    "created": "2026-06-06T07:45:16Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5753863584?se=FqXRoA6A8RGnybZGKZMVYw&utm_medium=api&utm_source=4a2f7c39&v=9A77D88FE3BA09C5143908F3F718F20196D5DF78",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1NzUzODYzNTg0In0.urfe54wPEESW8EVkSbc2v-3v4YxQxilU5SuuxP0nEVc",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "location": {
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "id": "5790410230",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Morningstar"
+    },
+    "title": "Sr. Staff Software Development Engineer, Data Collection",
+    "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role: Senior Staff Software Development Engineer Location: Vashi, Navi Mumbai (4 days working from office) As a Senior Staff Software Development Engineer within the Product organization, you will be responsible for solving most complex and challenging technical problems, and unlock delivery of value for service…",
+    "created": "2026-07-07T05:28:20Z",
+    "redirect_url": "https://www.adzuna.in/details/5790410230?utm_medium=api&utm_source=4a2f7c39",
+    "latitude": 19.00821,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1NzkwNDEwMjMwIn0.up85KNBALnL9ivGfGRqlTuzc6ikXmde_JeO3B1vmOzc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 72.84415
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ],
+      "display_name": "Pune, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "id": "5785771588",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "Deutsche Bank",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "This job is with Deutsche Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Position Overview Role Description Our Data Governance and Architecture team is driving forward data management together with the Divisional Data Office for Private Bank. In close collaboration between business and IT we assign data roles, manage the documentation of data flows, align data requirements between…",
+    "title": "Senior Engineer for Data Management - PB",
+    "created": "2026-07-03T00:54:17Z",
+    "redirect_url": "https://www.adzuna.in/details/5785771588?utm_medium=api&utm_source=4a2f7c39",
+    "latitude": 18.5062,
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1Nzg1NzcxNTg4In0.LaDntAhAGjQP9B3AgXXBeCaiqhWL8bchlhtPYOC8DEc",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 73.84735
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4Njc4NTY5MiIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.g1260SCJAqalyRnnOLPV306EJOUm5DBO2JI-c168naI",
+    "redirect_url": "https://www.adzuna.in/land/ad/5786785692?se=FqXRoA6A8RGnybZGKZMVYw&utm_medium=api&utm_source=4a2f7c39&v=857F7937A6E66B0B50EF6F95F9EBAFDB461D7883",
+    "created": "2026-07-03T17:38:10Z",
+    "title": "Project Manager",
+    "description": "Project Manager – AI/LLM Operations | Data Engineering | KPO About the Role We are looking for an experienced Project Manager to lead AI/LLM and Knowledge Process Outsourcing (KPO) projects across legal, life sciences, and medical domains. The ideal candidate will drive end-to-end project execution, manage cross-functional teams, ensure timely delivery, and optimize operational excellence while working closely with stakeholders and leadership. Key Responsibilities Manage end-to-end delivery of …",
+    "company": {
+      "display_name": "Innodata Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "id": "5786785692",
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0"
+  },
+  {
+    "contract_time": "full_time",
+    "latitude": 18.5062,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 73.84735,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjQxOTIyNSIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.EaBjItIakkc5gfkIypP35TdQydZEThEAhu0szEH5zaM",
+    "id": "5786419225",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Pune, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Pune"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "Capco",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-07-03T10:54:44Z",
+    "redirect_url": "https://www.adzuna.in/details/5786419225?utm_medium=api&utm_source=4a2f7c39",
+    "description": "This job is with Capco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: GCP Platform Engineer About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across gl…",
+    "title": "GCP Platform Engineer"
+  },
+  {
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra"
+    },
+    "salary_is_predicted": "0",
+    "id": "5785771919",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Senior Software Engineer",
+    "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Role: At Morningstar, helping investors is what brings us together and drives our work. We are looking for a Senior Data Engineer to join the Corporate Systems Data Enablement t eam to su pport Morningstar's Business Intelligence Reporting , grow with us, introduce us to new ideas and develop products that e…",
+    "created": "2026-07-03T00:54:21Z",
+    "redirect_url": "https://www.adzuna.in/details/5785771919?utm_medium=api&utm_source=4a2f7c39",
+    "contract_time": "full_time",
+    "latitude": 19.00821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NTc3MTkxOSIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.Z8m_3DKWXVCBcNn1YZiWufxX4p8pLernPJJNjTbRqTw",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 72.84415
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EXL"
+    },
+    "description": "Description Data Engineers design and build data systems and pipelines. Responsibilities include developing data processing workflows, optimizing data storage, and ensuring data accuracy. You will collaborate with data scientists and analysts to meet data requirements and resolve data issues. Strong experience in data engineering and problem-solving skills are required. Responsibilities Design and implement data pipelines, Optimize data processing and storage, Ensure data solutions meet perform…",
+    "title": "Data Engineer-Data engineer-Engineering",
+    "redirect_url": "https://www.adzuna.in/details/5513049976?utm_medium=api&utm_source=4a2f7c39",
+    "created": "2025-11-25T23:00:33Z",
+    "location": {
+      "display_name": "Noida, Ghaziabad",
+      "area": [
+        "India",
+        "Uttar Pradesh",
+        "Ghaziabad",
+        "Noida"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "id": "5513049976",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUxMzA0OTk3NiIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.dnO6JgvUzlOm1SjLWuH03e3Lxph_y_YCcPxJvy6LykI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 77.3225,
+    "latitude": 28.56579,
+    "contract_time": "full_time"
+  },
+  {
+    "id": "5786180977",
+    "location": {
+      "display_name": "Immedihalli, Bangalore",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore",
+        "Immedihalli"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "display_name": "Evnek Technologies Pvt Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-07-03T06:18:29Z",
+    "redirect_url": "https://www.adzuna.in/details/5786180977?utm_medium=api&utm_source=4a2f7c39",
+    "description": "Job Title: Junior Data Engineer Experience: 2–4 Years Location: Remote / Hybrid Notice Period: Immediate Joiner Job Summary We are looking for a motivated Junior Data Engineer with 2–4 years of experience to join our growing data engineering team. The ideal candidate should have hands-on experience in building and maintaining data pipelines, working with cloud-based data platforms, and developing scalable ETL/ELT solutions. You will collaborate with senior data engineers, data analysts, and bus…",
+    "title": "Data Engineer",
+    "latitude": 12.97375,
+    "longitude": 77.73605,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjE4MDk3NyIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.KfPvZcrtqn1OHt7IrxBCGYmYzeln8JgJUhm8foyTavY"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5ODk4OTQ2OCIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.7MTbxyBUIQ4bn0WgtB3aAK92ETyXKIKnnesW8Z_P6Ic",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sparix Global."
+    },
+    "redirect_url": "https://www.adzuna.in/details/5798989468?utm_medium=api&utm_source=4a2f7c39",
+    "salary_min": 2400000,
+    "created": "2026-07-13T23:25:26Z",
+    "description": "Data Engineer (Subcontractor) Immediate Joiners Required Position Details Position Name Experience Location Joining Duration Budget Data Engineer 8 11 Years Remote Absolute Immediate 6 Months 2 - 2.5.0 LPM Job Description We are looking for an experienced Data Engineer with expertise in building and maintaining scalable data pipelines on AWS. The ideal candidate should have hands-on experience with modern data engineering tools and cloud-native architectures. Primary Skills AWS AWS Glue AWS Lam…",
+    "title": "Data Engineer",
+    "id": "5798989468",
+    "salary_max": 3000000,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ],
+      "display_name": "India"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "latitude": 13.07622,
+    "longitude": 80.24699,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NTg4MDE1NyIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.qRnaHXzRwmlFc9xsWd4bv7dFQuVRomMva_rA0Vnqxlc",
+    "id": "5795880157",
+    "location": {
+      "display_name": "Egmore Nungambakkam, Chennai",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai",
+        "Egmore Nungambakkam"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "salary_max": 2100000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Trigent Software Private Limited"
+    },
+    "salary_min": 1500000,
+    "redirect_url": "https://www.adzuna.in/details/5795880157?utm_medium=api&utm_source=4a2f7c39",
+    "created": "2026-07-10T23:26:22Z",
+    "title": "Data Engineering",
+    "description": "As a Data Engineer, a typical day involves designing, developing, and maintaining comprehensive data solutions that support the generation, collection, and processing of data. This role requires creating efficient data pipelines and ensuring the integrity and quality of data throughout its lifecycle. The position also involves implementing extract, transform, and load processes to facilitate seamless migration and deployment of data across various systems, enabling smooth data flow and accessib…"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5800097451",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ],
+      "display_name": "India"
+    },
+    "redirect_url": "https://www.adzuna.in/details/5800097451?utm_medium=api&utm_source=4a2f7c39",
+    "created": "2026-07-14T22:15:32Z",
+    "title": "Data Engineer",
+    "description": "This role is for one of the Weekday's clients Salary range: Rs 1300000 - Rs 2600000 (ie INR 13-26 LPA) Experience: 5 yrs Location: Pune, Maharashtra, India Job Type: Full-Time We are seeking an experienced Azure Databricks Engineer to design, develop, and optimize scalable cloud-based data engineering solutions. This role is ideal for professionals with strong expertise in Azure Databricks, SQL, and ETL development , who are passionate about building high-performance data pipelines and enabling…",
+    "company": {
+      "display_name": "Weekday AI",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_time": "full_time",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1ODAwMDk3NDUxIn0.9PW_ty_VevK8YXI0gW786HPjs6VlHF9fXm4zDGFuPQM"
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Job Description We are looking for a Data Engineer to enhance Tenderlink, a platform that connects buyers and suppliers by streamlining tendering, procurement, and contract management processes. Reporting to the Manager, Commercial Data Quality & Innovation, this is a hands-on technical role responsible for independently designing, building, optimising, and enhancing data pipelines that power Tenderlink data assets. You will focus on ensuring high-quality, reliable, and scalable data ingestion,…",
+    "redirect_url": "https://www.adzuna.in/details/5785057845?utm_medium=api&utm_source=4a2f7c39",
+    "created": "2026-07-02T12:15:11Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Experian"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana"
+    },
+    "id": "5785057845",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRnFYUm9BNkE4UkdueWJaR0taTVZZdyIsImkiOiI1Nzg1MDU3ODQ1In0.DnliUHprtq0VL1LyB1N0FZh-KwjQOhHptdFxjtppy6c",
+    "longitude": 78.50806,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NTg4MDIxOSIsInMiOiJGcVhSb0E2QThSR255YlpHS1pNVll3In0.G9YtwF4vKeiBov6bmmGqAWtonpXQrB_XuzJG8OdN7B8",
+    "salary_min": 130000,
+    "created": "2026-07-10T23:26:29Z",
+    "redirect_url": "https://www.adzuna.in/details/5795880219?utm_medium=api&utm_source=4a2f7c39",
+    "title": "Data Engineer",
+    "description": "Data Engineer 6 Hybrid(Bangalore) 12 months C2H Key Responsibilities Design and develop data pipelines (batch and streaming) using Databricks and PySpark. Write optimized PySpark code to process large datasets. Build and manage CI/CD pipelines for data workflows using GitHub / GitHub Actions / Azure DevOps. Implement data validation and data quality checks. Monitor pipelines using logging, alerting, and observability tools. Collaborate with cross-functional teams and document data pipeline arch…",
+    "company": {
+      "display_name": "Sparix Global.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "id": "5795880219",
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "salary_max": 135000
+  }
+]
