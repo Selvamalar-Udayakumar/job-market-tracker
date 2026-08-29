@@ -1,0 +1,585 @@
+[
+  {
+    "id": "5857982568",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5857982568?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=AE34D03C491E4C32E5FC3C8E2F4D24796D036CDB",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "HP"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "0",
+    "created": "2026-08-27T12:12:30Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODU3OTgyNTY4In0.bKThad3upTvy4wqIMfWXySOEwQkxjBXdOa5MzQ_doX8",
+    "description": "This job is with HP, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Data Engineer Description - Key Roles Designs and establishes secure and performant data architectures, enhancements, updates, and programming changes for portions and subsystems of data pipelines, repositories or models for structured/unstructured data. Analyzes design and determines coding, programming, and integration…",
+    "contract_time": "full_time",
+    "title": "Data Engineer"
+  },
+  {
+    "id": "5812528340",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Accenture"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5812528340?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=E00EA247DC36DF7ACBF0428A8454F772F568864E",
+    "contract_time": "full_time",
+    "title": "Data Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODEyNTI4MzQwIn0.TZQj-pl5P_VtIFrASTMZ-SenUfRccslD4oW_TARqZfo",
+    "description": "This job is with Accenture, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Project Role : Data Engineer Project Role Description : Design, develop and maintain data solutions for data generation, collection, and processing. Create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems. Must have skills : Ja…",
+    "created": "2026-07-23T22:17:08Z",
+    "salary_is_predicted": "0"
+  },
+  {
+    "created": "2026-08-12T01:59:32Z",
+    "salary_is_predicted": "0",
+    "title": "Data Engineer",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODM3MTM5MzAzIn0.w1VeRX6d9i-EnpvHRfdVTTU9mAUFlqoWvtX4_3okT_c",
+    "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+    "redirect_url": "https://www.adzuna.in/land/ad/5837139303?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=D2A66BAD230DEAFB5D59F49CF3F49D7BAF7B3D2F",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "display_name": "Noida, Gautam Buddha Nagar",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Uttar Pradesh",
+        "Gautam Buddha Nagar",
+        "Noida"
+      ]
+    },
+    "company": {
+      "display_name": "Kyndryl",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5837139303",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "redirect_url": "https://www.adzuna.in/land/ad/5837139580?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=3F4C987C0F8AC372EAC3309E44ADC4F6C18286D6",
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "display_name": "Capco",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2026-08-12T01:59:38Z",
+    "salary_is_predicted": "0",
+    "title": "AWS Data Engineer",
+    "contract_time": "full_time",
+    "description": "This job is with Capco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: AWS data Engineer About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe,…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODM3MTM5NTgwIn0.80hQBm2AoVuFwYEX-v5IuNnpmCYNunMl1O4jSXTU_PQ",
+    "id": "5837139580",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "id": "5857982480",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Sr, Data Engineer",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1Nzk4MjQ4MCIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.qEDzP6--4v6i836Qh0YzqScMEQbG06QakP8Z6F8fK8g",
+    "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+    "created": "2026-08-27T12:12:20Z",
+    "salary_is_predicted": "0",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "eBay"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5857982480?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=035A197FA64EA215610AD70F067D5670142C830B"
+  },
+  {
+    "longitude": 77.59837,
+    "latitude": 12.95703,
+    "id": "5855007047",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODU1MDA3MDQ3In0.oXkQMrFj6CcNOD7jISMseuN2ZhBVqPBCeHci_c5xUWk",
+    "title": "Data Engineer Lead",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "created": "2026-08-25T10:08:09Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kyndryl"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5855007047?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=5C1C4BF9876C47283802818B74E9627791A82B00"
+  },
+  {
+    "id": "5858537530",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "created": "2026-08-27T22:16:43Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODU4NTM3NTMwIn0.AXa7Ic0qzWS6CQHTrrmGW46Nw0f33xlhpZ2rJMQKfAM",
+    "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+    "contract_time": "full_time",
+    "title": "Data Engineering Manager",
+    "redirect_url": "https://www.adzuna.in/land/ad/5858537530?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=F9262946A61BD7A4C5F32B3366CC29CEACDBABDC",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "eBay"
+    }
+  },
+  {
+    "id": "5859662512",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "created": "2026-08-28T18:11:39Z",
+    "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODU5NjYyNTEyIn0.deamHzpcqxTsYQVFGzPvWjUYLeGadDtD5JuG02fUCq0",
+    "title": "Manager-Data Engineering",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.in/land/ad/5859662512?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=3ACAADBE855679B1D0CC1872AC54B2D07797CB67",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Moody's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "created": "2026-08-14T14:19:22Z",
+    "salary_is_predicted": "0",
+    "contract_time": "full_time",
+    "title": "Senior Data Engineer",
+    "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. We are seeking a talented Senior Data Engineer in India. The right candidate has strong communication skills, passion for solving business problems with data and has domain knowledge in Finance, Human Resources, and Customer Success. You have empathy, curiosity and desire to improve and constantly learn…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MTUwOTI3MSIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.tyNJjYULtot4wy6UJ0qEgumbxTWo1gUTNjebzMauph4",
+    "redirect_url": "https://www.adzuna.in/land/ad/5841509271?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=79C7894BF01ADAAC3675B837FB4EFBB73CE628B1",
+    "company": {
+      "display_name": "Cornerstone OnDemand",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hyderabad, Telangana"
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": 78.50806,
+    "id": "5841509271",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 17.40275
+  },
+  {
+    "salary_is_predicted": "0",
+    "created": "2026-08-13T18:00:01Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODQwMjc3MjE0In0.tSUYFgSiM7KD7MQYFQK2MP9K9G781aDp3PgY1y0cMd0",
+    "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 10 S&P Global Energy The Role: Senior Data Engineer The Team: The Data Engineering team expands and optimizes our data pipeline architecture, working collaboratively with cross-functional teams to build scalable data systems that support next-generation products and…",
+    "title": "Senior Data Engineer",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.in/land/ad/5840277214?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=D5505EAB5B559CA8CC1D307FE6806DA8A50A9663",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "S&P Global"
+    },
+    "longitude": 78.50806,
+    "latitude": 17.40275,
+    "id": "5840277214",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_is_predicted": "0",
+    "created": "2026-08-22T12:06:34Z",
+    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: R&D Team Lead Your role and responsibilities: Our IoT solutions are ma…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1MjE2NDUzNCIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.6oqL74yrqRSIqHfGIXDHD1zSNYQJh9Pt9VO3PY0NtCc",
+    "contract_time": "full_time",
+    "title": "Data Engineer With Python",
+    "redirect_url": "https://www.adzuna.in/land/ad/5852164534?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=34CD38A8DDC5C923F431F309A1DABE3A8C643AFC",
+    "company": {
+      "display_name": "ABB",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "longitude": 77.59837,
+    "latitude": 12.95703,
+    "id": "5852164534",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "longitude": 80.24963,
+    "latitude": 13.06041,
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5858537538",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODU4NTM3NTM4In0.egzaFMVwS2ch-_02Fii6dD1tKamSQtcwFJO2iCncp6c",
+    "description": "This job is with RX Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Team: RX Global aims to create unforgettable experiences for attendees and exhibitors through organizing events. Innovation, creativity, and collaboration drive the company to offer exceptional services to clients. About the role: This role focuses on building and maintaining scalable data pipelines and plat…",
+    "contract_time": "full_time",
+    "title": "Data Engineer III",
+    "salary_is_predicted": "0",
+    "created": "2026-08-27T22:16:43Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ]
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RX Global"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5858537538?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=A9470BF86CE3CCC1CD33F195410A520BCA9AFF37"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Novartis"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "India",
+      "area": [
+        "India"
+      ]
+    },
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5806276961?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=D101C5A0B26F1E7041677CF0D9CCF7248CEEA935",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODA2Mjc2OTYxIn0.vLLJ64KTixZy4Fvcskl5kfzicwMOU717fVFu0SvKJGU",
+    "description": "This job is with Novartis, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Summary We are seeking an experienced Business Analyst with 8 years of experience in Master Data Management (MDM), Data Governance, and Business Process Analysis to support strategic Customer MDM, Product MDM, and Brand MDM. The candidate will partner with business stakeholders, data stewards, architects, and imple…",
+    "contract_time": "full_time",
+    "title": "Data Engineering Manager",
+    "salary_is_predicted": "0",
+    "created": "2026-07-18T22:18:09Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5806276961"
+  },
+  {
+    "contract_time": "full_time",
+    "title": "Manager, IT - Data Engineering",
+    "description": "This job is with Kraft Heinz, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description MANAGER, DATA ENGINEERING(b13) Job Description Role overview As a Manager - Data Engineering, you will lead a cross-functional delivery team in building and maintaining the framework and platform capabilities that drive our data pipelines and analytics solutions. You will take design ownership of…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODIyNDAzMzYyIn0.S36D7fJOpi1nrcOLzsyWZW4tr9dua-qrOPWLnXvvYUY",
+    "salary_is_predicted": "0",
+    "created": "2026-07-31T19:50:47Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Kraft Heinz"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5822403362?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=25353A0612E96F750642694811844BA1E9BF3623",
+    "longitude": 77.59837,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5822403362",
+    "latitude": 12.95703
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Capco"
+    },
+    "location": {
+      "area": [
+        "India"
+      ],
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5837139604?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=75A7E9BC854A70F3B0E23DBE97DA16BCC27B1318",
+    "description": "This job is with Capco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100 clients across…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNzEzOTYwNCIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.FuWntVhjGByxNOeH5OgrIeCPgkR9FYIEP4zZLn1Jn4U",
+    "title": "Big Data Engineer - India",
+    "contract_time": "full_time",
+    "created": "2026-08-12T01:59:39Z",
+    "salary_is_predicted": "0",
+    "id": "5837139604",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "created": "2026-08-18T13:09:45Z",
+    "salary_is_predicted": "0",
+    "title": "Presales Senior Data Engineer",
+    "description": "Tiger Analytics is a global AI and analytics consulting firm. With data and technology at the core of our solutions, our 4000 tribe is solving problems that eventually impact the lives of millions globally. Our culture is modeled around expertise and respect with a team first mindset. Headquartered in Silicon Valley, you’ll find our delivery centers across the globe and offices in multiple cities across India, the US, UK, Canada, and Singapore, including a substantial remote global workforce. W…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NjI5OTY2OSIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.pYnW5A55TscY67AInqhkX2X-R2ca9he34sWU-A9efi4",
+    "redirect_url": "https://www.adzuna.in/land/ad/5846299669?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=711E4565501CA663D87BC162D86F3C8F4E3AA630",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tiger Analytics"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "India",
+      "area": [
+        "India"
+      ]
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Energy, Oil & Gas Jobs",
+      "tag": "energy-oil-gas-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5846299669"
+  },
+  {
+    "title": "Lead Big Data Engineer",
+    "contract_time": "full_time",
+    "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 The Team: Our enterprise data management team is at the forefront of designing and developing cutting-edge data solutions that drive strategic business outcomes across the organization. We value quick learners who thrive in a dynamic technology environment and ca…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5Mjg4MzkwMCIsInMiOiIwQ0dob1k2ajhSR0VlTEk3RG90bjRRIn0.tKsUiAa-IWXplHVOm0iuKe6YCt5bdT4AZ0GGgrC14kk",
+    "salary_is_predicted": "0",
+    "created": "2026-07-08T22:18:32Z",
+    "company": {
+      "display_name": "S&P Global",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5792883900?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=A4DAB3731F39B580F8A5283FAE8F30D14C742C94",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5792883900"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5837139650",
+    "location": {
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "India"
+    },
+    "company": {
+      "display_name": "Capco",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5837139650?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=025DC64898BBEE97D8ECB9A23E8E85E4623C0D15",
+    "contract_time": "full_time",
+    "title": "Data Engineer - Python and Azure Data Bricks",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODM3MTM5NjUwIn0._zqFe1jrzaRhi-SjHfkxWlhWk_Ky6VCv112xrludXjM",
+    "description": "This job is with Capco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Title: Data Engineer - Python and Azure Data Bricks About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence acr…",
+    "created": "2026-08-12T01:59:39Z",
+    "salary_is_predicted": "0"
+  },
+  {
+    "contract_time": "full_time",
+    "title": "Data Engineer with Scala and Spark/ Pyspark",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODM3MTM5NTA2In0.dYHVlsh1ceS_yDQSAi-kAE3X2VBe5XP0STJ7PdhIABo",
+    "description": "This job is with Capco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100 clients across…",
+    "salary_is_predicted": "0",
+    "created": "2026-08-12T01:59:37Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "India",
+      "area": [
+        "India"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Capco"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5837139506?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=98A79E030D2F6D422CC9703A4E2FA845333D2A2A",
+    "id": "5837139506",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "longitude": 72.84415,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5848650906",
+    "latitude": 19.00821,
+    "title": "Sr. Data Engineer, Analytics Engineering",
+    "contract_time": "full_time",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMENHaG9ZNmo4UkdFZUxJN0RvdG40USIsImkiOiI1ODQ4NjUwOTA2In0.HB1xta5INUNXE03cwtXMomUIk1GGaF31lVUjPOXUOw4",
+    "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Role: Sr. Data Engineer, Analytics Engineering Location: Vashi, Navi Mumbai (4 days working from office) Work Timings: Office work from 12:00pm to 5:00pm and then remote 7:30pm to 10:00pm As a member of the Enterprise Data Platform team and Enterprise Technology organization within Technology & Engineering at Pi…",
+    "salary_is_predicted": "0",
+    "created": "2026-08-20T00:04:29Z",
+    "company": {
+      "display_name": "Morningstar",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "display_name": "Mumbai, Maharashtra",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "it-jobs",
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5848650906?se=0CGhoY6j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=4a2f7c39&v=CE19C012843874FDD85ED766593772234DB14E96"
+  }
+]
