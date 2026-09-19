@@ -1,0 +1,556 @@
+[
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQzOTExMSIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.VEU7w0Rk80WpNPHxIOCCV1YWITZ-kMTBeAqxbHmvSGs",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "latitude": 13.06041,
+    "id": "5864439111",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "IBM"
+    },
+    "salary_is_predicted": "0",
+    "description": "IBM is hiring for Data Engineer-Data Platforms-AWS/Databricks at Pune and Chennai location. Your Role and Responsibilities* As a Data Engineer specializing in Data Platforms on AWS, you will advise on, develop, and maintain data engineering solutions on the AWS Cloud ecosystem. You will design, build, and operate batch and real-time data pipelines using various AWS services. Your primary responsibilities will include: • 5 years experience in Design and Develop Data Pipelines: Design, build, and…",
+    "title": "Data Engineer",
+    "longitude": 80.24963,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5864439111?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=34B7ADB4FF85A0A1EAC3F7AF755853522348AC8D",
+    "created": "2026-09-01T16:22:52Z",
+    "location": {
+      "display_name": "Chennai, Tamil Nadu",
+      "area": [
+        "India",
+        "Tamil Nadu",
+        "Chennai"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQyNTQwNCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.rt9Wli46tW1EWjgOFGRdSM7abqdTNq29FMlI2LrIXrA",
+    "id": "5864425404",
+    "company": {
+      "display_name": "IBM",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "description": "AWS Data Engineer - Databricks at Pune and Chennai location. Your Role and Responsibilities* As a Data Engineer specializing in Data Platforms on AWS, you will advise on, develop, and maintain data engineering solutions on the AWS Cloud ecosystem. You will design, build, and operate batch and real-time data pipelines using various AWS services. Your primary responsibilities will include: • 6 years' experience in Design and Develop Data Pipelines: Design, build, and operate batch and real-time d…",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5864425404?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=F34822946A9086CB558CCB93BF6DE2AF7080F0E0",
+    "created": "2026-09-01T16:20:34Z",
+    "location": {
+      "area": [
+        "India"
+      ],
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Job Description : Looking for a hands‑on AWS Data Engineering for a Japanese client with 4 to 5.11 years of total experience to design and deliver scalable, secure, and high‑performance data platforms on AWS. This role focuses on strong individual contribution with technical ownership, working closely with global teams, leads, and clients to deliver enterprise‑grade data engineering solutions. The position requires deep expertise in AWS data services, SQL, and Python, and the ability to build a…",
+    "company": {
+      "display_name": "AMS",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5879667663",
+    "latitude": 19.00821,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3OTY2NzY2MyIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.BGl-g6leRX8YiPEoCdXu1wwtx1iqwikjnYmaETWTvsY",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Mumbai, Maharashtra",
+      "area": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5879667663?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=22E6D3599E3B4CD831418368F0AA533521E590F9",
+    "longitude": 72.84415,
+    "created": "2026-09-11T17:15:56Z"
+  },
+  {
+    "created": "2026-09-11T17:12:39Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5879662652?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=2ACE0CB70E7B8001D3F1BAD8E309535B69B160BB",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ],
+      "display_name": "India"
+    },
+    "salary_is_predicted": "0",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODc5NjYyNjUyIn0.wb2JJkKVNJfzbbuSWF6ZtQGgNmiMwx4ayoVRFGABq_8",
+    "id": "5879662652",
+    "company": {
+      "display_name": "EXL",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "We are seeking a seasoned Data Engineer with 3-7 years of experience in data engineering, cloud platforms and distributed systems, along with 2 years of hands-on experience with Palantir Foundry/ AIP & Palantir Ontology. The ideal candidate will work on designing scalable data solutions, building robust data pipelines, modelling enterprise datasets and enabling analytics and AI/ML use cases on Palantir Foundry. Experience in the insurance domain is a plus. Key Requirements • 3 -7 years of overa…",
+    "title": "Data Engineer"
+  },
+  {
+    "description": "About the Role We are looking for a highly skilled AWS Data Engineer to design, build, and optimize scalable data solutions on AWS cloud. The ideal candidate should have strong expertise in data engineering, ETL/ELT development, cloud-native architectures, and modern data warehousing technologies. Key Responsibilities Design, develop, and maintain scalable data pipelines on AWS. Build and optimize ETL/ELT processes for structured and unstructured data. Develop data ingestion frameworks from mul…",
+    "title": "Data Engineer",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQzMDg3MCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.Z2JWXLoNgQW3QQr_LMvIcjZ_cNgXwf7leiR7tA6Gz2U",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5864430870",
+    "company": {
+      "display_name": "EXL",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ],
+      "display_name": "India"
+    },
+    "created": "2026-09-01T16:21:42Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5864430870?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=A3E7642746CEFD231E55AF3945F31DC2BC9ED8AF"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODg5MjE0MTI0In0.MJrWvMnJ3swGLlXPXCn60QM3ZP1riirSCYDJNzfcDW4",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "id": "5889214124",
+    "company": {
+      "display_name": "Evoke HR Solutions Pvt. Ltd.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0",
+    "description": "Job Summary We are looking for a motivated Junior Data Engineer with hands-on experience in Databricks and modern data engineering practices. The candidate will support the design, development, and maintenance of scalable data pipelines and data processing solutions to enable analytics and reporting needs. Key Responsibilities Develop, maintain, and optimize ETL/ELT data pipelines using Databricks. Build and support data ingestion frameworks for structured and semi-structured data. Work with la…",
+    "title": "Data Engineer",
+    "redirect_url": "https://www.adzuna.in/land/ad/5889214124?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=7FA95ECA12373D7C7AAD8584D9DBED89C360C7F6",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-09-18T17:28:16Z",
+    "location": {
+      "area": [
+        "India"
+      ],
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "created": "2026-09-08T14:41:19Z",
+    "longitude": 78.50806,
+    "redirect_url": "https://www.adzuna.in/land/ad/5875419844?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=1645E3C7259B1A424B5D0BBA68A5C98E46290FCE",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "latitude": 17.40275,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODc1NDE5ODQ0In0.PibL4Fnni002V3rC0jp5bxXp68_piCNTR43ajIQqvPU",
+    "company": {
+      "display_name": "ValueLabs",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5875419844",
+    "description": "Dear Aspirants, Greetings from ValueLabs! We are hiring for Data engineer Role: Data Enginner Experience: 7 Years NP: Immediate Location : Hyderabad - Hybrid Job Description 7 years of data engineering experience • Experience with data modelling, warehousing and building ETL pipelines • Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets • Experience in at least one modern scripting or programming language, such as…",
+    "title": "Data Engineer"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODY0NDI3MDk0In0.8lpBXTLIdl6S8VLBb48gSUD_urQe8-p8sQjFTJAKkbw",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "company": {
+      "display_name": "MHPI ",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5864427094",
+    "salary_is_predicted": "0",
+    "description": "Job Description About Us Masco Home Products India (MHPI) is a fully owned subsidiary of Masco Corporation , headquartered in Livonia, MI. The vision of MHPI is to be recognized as a world-class Global Business Services organization driven by the desire for excellence in its people, business solutions, execution, and partnerships with internal customers to develop “Lean and Simple” business solutions. Headquartered in Livonia, Michigan, Masco Corporation is a global leader in the design, manufa…",
+    "title": "Data Engineer",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5864427094?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=742693F3265EA1AB31080D09274489F174EB6AB5",
+    "created": "2026-09-01T16:20:55Z",
+    "location": {
+      "area": [
+        "India"
+      ],
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Job Title: Data Engineer-AWS Experience: 2–3 Years Location: Pune Work Mode: Work from Office-Pune About the Role We are seeking a Junior Data Engineer with 2 to 3 years of experience to join our growing team in Pune. In this role, you will work alongside senior engineers to build, optimise, and maintain data pipelines, write efficient SQL queries, and utilise AWS cloud services to enable data processing and analytics across the organisation. Key Responsibilities Assist in developing, testing, …",
+    "salary_is_predicted": "0",
+    "id": "5870527464",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Recro"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MDUyNzQ2NCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.PseW6DMUsWUyZZ-tSODixhI5V9P0TkCOTSSJkdQtQRs",
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-09-04T16:57:28Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5870527464?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=0B6608796342581E1F75E76CBFA752ADFD2A0010",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "title": "Data Engineer",
+    "description": "About V4C.ai v4c.ai is a premier IT services consultancy specialising in Databricks to help organizations unlock the full potential of their data. We partner with enterprises to accelerate their journey to becoming data-driven by delivering end-to-end Databricks services across Lakehouse implementation, data engineering, AI/ML, and governance. Our expertise in integration, optimization, and enablement empowers clients to unify disparate data sources, modernize analytics, and build AI-ready plat…",
+    "salary_is_predicted": "0",
+    "id": "5886986201",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "v4c.ai"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4Njk4NjIwMSIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.7H2O2rdKlbEtDOvByhGIPdMaCerhVMyrfokDUZTLJS8",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India"
+      ],
+      "display_name": "India"
+    },
+    "created": "2026-09-17T07:17:41Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5886986201?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=BD078F6AE42068E337800D7F188DEB5B87BBCA8C"
+  },
+  {
+    "location": {
+      "area": [
+        "India"
+      ],
+      "display_name": "India",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-09-02T21:45:17Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5867263507?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=D8AC08290284E56445A4F253FABC0AF5EE2DE3F8",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Dear Candidate, We have face to face interview @ Gurgaon 5th Sep,2026 Experience : 5-10yrs Please apply if you are interested and available for in person interview. Skills: 1.Data Engineer – Python PySpark, SQL, AWS 2.Data Analyst-Power BI, SQL, Statistical skill 3.Sr. Java Engineers-Microservices, Kafka 4.Data Scientist 5.Data Modeler 6.Data Engineer – Databricks, Splunk 7.AWS DevOps Engineer 8.Smart Comm Developer",
+    "title": "Data Engineer",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NzI2MzUwNyIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.QHg175kfjE62yJ7vUqbNjqH0L2jiSN4rCSDMHDCHops",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5867263507",
+    "company": {
+      "display_name": "Tata Consultancy Services",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "created": "2026-09-12T17:21:28Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5880953864?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=007F0CEBD91F7B676CDC06B1078DABFE12B45DFC",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4MDk1Mzg2NCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.yIvus6KelMbjtAd4AI312ihsuN_4SGZF_Dp5PxytH7s",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "id": "5880953864",
+    "company": {
+      "display_name": "Persistent Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "About Position: We are looking for a skilled Data Engineer with 6 to 9 years of experience in building scalable, secure, and high-performance data platforms. The ideal candidate will possess strong expertise in Databricks, Python, Spark, and Azure cloud technologies, with hands-on experience in developing distributed data pipelines and modern data processing solutions. This role requires a strong understanding of cloud-native architecture, containerized deployments, data security controls, and …",
+    "title": "Data Engineer"
+  },
+  {
+    "created": "2026-09-18T17:30:23Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5889220830?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=7DDB85F0C2F10496ABA7BBF98A69272F7B871C9F",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "id": "5889220830",
+    "company": {
+      "display_name": "Sourcebae",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4OTIyMDgzMCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.1vzcReVIp3vhIwl0usSUmyuNW3dJVGcLKCSD1TniGVw",
+    "title": "Data Engineer",
+    "description": "Senior Snowflake Data Engineer Bangalore 6 Years We are seeking a highly experienced Senior Snowflake Data Engineer / Migration Lead to drive an enterprise-scale Oracle Database to Snowflake migration. The ideal candidate will have hands-on experience designing and executing Oracle-to-Snowflake migrations and strong expertise in Snowflake, Oracle SQL/PLSQL, Apache Airflow, Parquet, and modern data engineering. This role will be responsible for migrating not only data, but also database logic, b…"
+  },
+  {
+    "location": {
+      "display_name": "India",
+      "area": [
+        "India"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5864424257?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=F127F3ABC8FA5F5C9204D22779C4822F9671E1FB",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "created": "2026-09-01T16:20:19Z",
+    "title": "Data Engineer",
+    "description": "Azure Data Engineer (Contract) – INDIA – Fully Remote – 6 Months We’re hiring an experienced Azure Data Engineer to support a growing analytics platform and help scale modern data pipelines in a cloud-first environment. This is a hands-on role focused on building reliable data foundations that enable reporting, modelling and business insights. What you’ll do Build and maintain scalable data pipelines in Azure Ingest and transform data from multiple enterprise systems (including ERP sources) Imp…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "InterEx Group"
+    },
+    "id": "5864424257",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQyNDI1NyIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.ITi9B_WvUnHL6m1WKcx64gHGP5KVuo7hcrQx_x8n-3E",
+    "salary_is_predicted": "0"
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Hi Folks , We have Organised a Walkin drive for Below post at Indore office- Super Corridor Rd, Tigaria Badshah, Indore, Madhya Pradesh 453112 Job Title: AWS Databricks Engineer Exp - 5 yeas Location-Indore We are seeking a skilled Data Engineer with deep expertise in AWS and Databricks to design, build, and optimize our next-generation data platform. In this role, you will implement scalable data pipelines, manage cloud infrastructure, and enable advanced analytics and machine learning capabil…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Tata Consultancy Services"
+    },
+    "id": "5889218269",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4OTIxODI2OSIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.ABBSgQOT9I-Fm-GdCNXw0rfBBvLG_X2DqdiCOOldooc",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "latitude": 22.66215,
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Indore, Madhya Pradesh",
+      "area": [
+        "India",
+        "Madhya Pradesh",
+        "Indore"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5889218269?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=E88EC252F183EF9B7093057CE719F611BFCB3963",
+    "longitude": 75.9035,
+    "created": "2026-09-18T17:29:12Z"
+  },
+  {
+    "salary_is_predicted": "0",
+    "id": "5889219747",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Norwin Technologies"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODg5MjE5NzQ3In0.BL8hhvQHL0q2Q266KMgr9oKl7EG0wXy0mloLSgbHCxQ",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "title": "Data Engineer",
+    "description": "Job description Role Overview Seeking a Data Engineer to build and optimize scalable data solutions for Fraud Detection, Reporting, and Machine Learning . This individual contributor role focuses on real-time streaming, large-scale data processing, cloud platforms, and analytics engineering . The ideal candidate has strong expertise in Apache Spark, Kafka, Snowflake, and AWS/Azure . Key Responsibilities: Build and maintain scalable batch and real-time data pipelines for fraud analytics. Develop…",
+    "created": "2026-09-18T17:29:33Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5889219747?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=73998D93212171EFF82687B09FC625BBFC0F288E",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4MDk1MTM4NCIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.mdm6vqf1Fj-izJaF2C6qkOlKMRQuOjslbclmpS2NEoU",
+    "id": "5880951384",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Andor Tech"
+    },
+    "salary_is_predicted": "0",
+    "description": "Hiring Now: Senior Data Engineer | Bangalore Ready to build next-generation data platforms with cutting-edge cloud technologies? A leading global industrial technology and engineering organization is looking for an experienced Senior Data Engineer to join its high-performing data team in Bangalore .  Experience: 8 Years (Minimum 5 Years Relevant Experience)  Location: Bangalore  Employment Type: Contract-to-Hire (C2H) What We're Looking For: ✅ Strong hands-on experience with Databricks (Must Ha…",
+    "title": "Data Engineer",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "redirect_url": "https://www.adzuna.in/land/ad/5880951384?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=3B2FC520FE94109A70120BF5697EF4AFA4817A2D",
+    "created": "2026-09-12T17:19:38Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Telangana",
+        "Hyderabad"
+      ],
+      "display_name": "Hyderabad, Telangana"
+    },
+    "created": "2026-09-04T02:33:44Z",
+    "longitude": 78.50806,
+    "redirect_url": "https://www.adzuna.in/land/ad/5869558895?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=F8193B6351602A7620D87626F1B1AA4B008CD1F8",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Job Title: Data & Integration Engineer (7 Years) Role Summary We are seeking a skilled Data & Integration Engineer with 7 years of experience in designing, developing, and maintaining scalable data integration solutions. The ideal candidate will have expertise in data engineering, API integrations, cloud platforms, and ETL processes to support AI, automation, and enterprise data initiatives. Key Responsibilities Design, develop, and maintain scalable data pipelines, ETL/ELT workflows, and data …",
+    "title": "Data Engineering",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODY5NTU4ODk1In0.AF1rMGLeJdXVW1unRGInI0D4qzLi_qrICG9lTueKhg8",
+    "latitude": 17.40275,
+    "company": {
+      "display_name": "CirrusLabs",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5869558895"
+  },
+  {
+    "salary_is_predicted": "0",
+    "id": "5857982568",
+    "company": {
+      "display_name": "HP",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidmk4dkN2LXo4UkdtMWFsdmN0eWpXQSIsImkiOiI1ODU3OTgyNTY4In0.B_1yjNHQK_cSxnbpsMqk1IeJK9Dir9JjJwZHjQL7qP4",
+    "title": "Data Engineer",
+    "description": "This job is with HP, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Data Engineer Description - Key Roles Designs and establishes secure and performant data architectures, enhancements, updates, and programming changes for portions and subsystems of data pipelines, repositories or models for structured/unstructured data. Analyzes design and determines coding, programming, and integration…",
+    "created": "2026-08-27T12:12:30Z",
+    "redirect_url": "https://www.adzuna.in/land/ad/5857982568?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=AE34D03C491E4C32E5FC3C8E2F4D24796D036CDB",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_time": "full_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "display_name": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bangalore, Karnataka",
+      "area": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.in/land/ad/5882595616?se=vi8vCv-z8RGm1alvctyjWA&utm_medium=api&utm_source=4a2f7c39&v=81C27F2C546A636AA297709E0AB2EAA933429B6E",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-09-13T17:20:58Z",
+    "description": "Job Description: Data Engineer (GCP | Python | Airflow | SQL | Looker Studio) 5yrs of Exp Role Summary We are seeking a highly skilled Data Engineer to design, build, and manage scalable data platforms and pipelines on Google Cloud Platform (GCP) . The role focuses on enabling data-driven decision-making by delivering robust data pipelines, optimized data models, and business-friendly visualizations. Key Responsibilities 1. Data Pipeline Development & Engineering Design, develop, and maintain s…",
+    "title": "Data Engineer",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4MjU5NTYxNiIsInMiOiJ2aTh2Q3YtejhSR20xYWx2Y3R5aldBIn0.Q-qv0Wx0FlzSLjcu-zNAVlZJ-RGoAiKWSL35d5Jw_Rg",
+    "id": "5882595616",
+    "company": {
+      "display_name": "Tata Consultancy Services",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "0"
+  }
+]
